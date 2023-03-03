@@ -2,7 +2,7 @@
 <h3 align="center">I am a computer Engineer</h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alikhaled20" alt="alikhaled20" /></a> </p> -->
- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alikhaled20" alt="alikhaled20" /></a> </p> 
+ 
 
 - 📫 How to reach me **aali.khaled.11@hotmail.com**
 
